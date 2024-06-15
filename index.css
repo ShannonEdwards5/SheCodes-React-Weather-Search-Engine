@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(138, 229, 176, 70%);
+  background-color: rgba(253, 137, 214, 0.7);
   font-family: "Roboto Flex", sans-serif;
 }
 h1 {
@@ -9,7 +9,7 @@ h1 {
   margin-top: 5px;
 }
 p {
-  color: #918a84;
+  color: #343035;
   font-size: 18px;
   font-weight: 100;
   line-height: 24px;
@@ -21,13 +21,13 @@ footer {
 }
 a,
 strong {
-  color: #ffb2aa;
+  color: #ff00bf;
 }
 strong {
   font-weight: 600;
 }
 hr {
-  border-color: rgba(153, 144, 221, 40%);
+  border-color: rgba(250, 76, 198, 0.4);
   border-width: 1px;
   border-style: solid;
 }
@@ -52,12 +52,12 @@ hr {
   padding: 15px;
 }
 .search-input {
-  background-color: rgba(138, 229, 176, 30%);
-  color: #918a84;
+  background-color: rgb(250, 242, 242);
+  color: #7b8581;
   width: 75%;
 }
 .search-button {
-  background-color: #9990dd;
+  background-color: #fc32fc;
   color: white;
   margin-left: 5px;
   padding: 15px 30px;
@@ -95,6 +95,6 @@ hr {
 }
 
 .forecast-temperature {
-  color: #ffb2aa;
+  color: #f507e9;
   font-weight: 200;
 }
